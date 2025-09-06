@@ -8,18 +8,13 @@ Tugas ini berfokus pada implementasi struktur data Array dalam bahasa pemrograma
 
 File Program
 
-inventaristoko.java
-Implementasi untuk Soal 1: Menambahkan dan Menampilkan Inventaris.
+- inventaristoko.java
+  Implementasi untuk Soal 1: Menambahkan dan Menampilkan Inventaris.
+    - Membuat kelas Barang dengan atribut nama, jumlah stok, dan harga.
+    - Menyimpan minimal 3 barang dalam array.
+    - Menampilkan seluruh barang yang ada di inventaris.
 
-Membuat kelas Barang dengan atribut nama, jumlah stok, dan harga.
-
-Menyimpan minimal 3 barang dalam array.
-
-Menampilkan seluruh barang yang ada di inventaris.
-
-inventaristoko2.java
-Implementasi untuk Soal 2: Mengupdate Stok dan Mencari Barang.
-
-Menambahkan fitur untuk mengupdate jumlah stok berdasarkan nama barang.
-
-Menambahkan fitur untuk mencari barang berdasarkan nama dan menampilkan detailnya.
+- inventaristoko2.java
+  Implementasi untuk Soal 2: Mengupdate Stok dan Mencari Barang.
+    - Menambahkan fitur untuk mengupdate jumlah stok berdasarkan nama barang.
+    - Menambahkan fitur untuk mencari barang berdasarkan nama dan menampilkan detailnya.
